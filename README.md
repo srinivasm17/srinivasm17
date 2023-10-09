@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srinivasm17
 - UTA S.E. '26
-- I’m currently learning Python, JS
+- Currently learning JAVA, JS, and Dart
 
 <!---
 srinivasm17/srinivasm17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
